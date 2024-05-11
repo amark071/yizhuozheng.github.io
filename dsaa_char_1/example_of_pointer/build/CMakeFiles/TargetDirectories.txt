@@ -1,0 +1,3 @@
+/home/master/yizhuozheng.github.io/dsaa_char_1/example_of_pointer/build/CMakeFiles/example.dir
+/home/master/yizhuozheng.github.io/dsaa_char_1/example_of_pointer/build/CMakeFiles/edit_cache.dir
+/home/master/yizhuozheng.github.io/dsaa_char_1/example_of_pointer/build/CMakeFiles/rebuild_cache.dir
